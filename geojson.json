@@ -1,0 +1,1045 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7C7535",
+                "marker-symbol": 0,
+                "population": 42284,
+                "city": "Burlington",
+                "state": "Vermont"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.21207199999999,
+                    44.4758825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#589984",
+                "marker-symbol": 1,
+                "population": 50821,
+                "city": "Charleston",
+                "state": "West Virginia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6326234,
+                    38.3498195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#22EB6F",
+                "marker-symbol": 2,
+                "population": 62448,
+                "city": "Cheyenne",
+                "state": "Wyoming"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8202462,
+                    41.1399814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#C42AAE",
+                "marker-symbol": 3,
+                "population": 66318,
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2553259,
+                    43.66147100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#813651",
+                "marker-symbol": 4,
+                "population": 71525,
+                "city": "Wilmington",
+                "state": "Delaware"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5397878,
+                    39.7390721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#67B639",
+                "marker-symbol": 5,
+                "population": 109059,
+                "city": "Billings",
+                "state": "Montana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.5006904,
+                    45.7832856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#2BFA6C",
+                "marker-symbol": 6,
+                "population": 110378,
+                "city": "Manchester",
+                "state": "New Hampshire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4547891,
+                    42.9956397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#898542",
+                "marker-symbol": 7,
+                "population": 113658,
+                "city": "Fargo",
+                "state": "North Dakota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7898034,
+                    46.8771863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#E931EA",
+                "marker-symbol": 8,
+                "population": 133358,
+                "city": "Columbia",
+                "state": "South Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0348144,
+                    34.0007104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#5012A9",
+                "marker-symbol": 9,
+                "population": 147216,
+                "city": "Bridgeport",
+                "state": "Connecticut"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.19517669999999,
+                    41.1865478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#FEFAC0",
+                "marker-symbol": 10,
+                "population": 164676,
+                "city": "Sioux Falls",
+                "state": "South Dakota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.73110340000001,
+                    43.5445959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#4845C9",
+                "marker-symbol": 11,
+                "population": 172638,
+                "city": "Jackson",
+                "state": "Mississippi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1848103,
+                    32.2987573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#C4E1B7",
+                "marker-symbol": 12,
+                "population": 177994,
+                "city": "Providence",
+                "state": "Rhode Island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4128343,
+                    41.8239891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#F2D536",
+                "marker-symbol": 13,
+                "population": 191180,
+                "city": "Salt Lake City",
+                "state": "Utah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8910474,
+                    40.7607793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#FC5827",
+                "marker-symbol": 14,
+                "population": 197357,
+                "city": "Little Rock",
+                "state": "Arkansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.28959479999999,
+                    34.7464809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#493D3C",
+                "marker-symbol": 15,
+                "population": 207510,
+                "city": "Des Moines",
+                "state": "Iowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6091064,
+                    41.6005448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8B0A19",
+                "marker-symbol": 16,
+                "population": 212113,
+                "city": "Birmingham",
+                "state": "Alabama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.80248999999999,
+                    33.5206608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#A447E2",
+                "marker-symbol": 17,
+                "population": 214237,
+                "city": "Boise City",
+                "state": "Idaho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2146068,
+                    43.6187102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#12CE9F",
+                "marker-symbol": 18,
+                "population": 278427,
+                "city": "Newark",
+                "state": "New Jersey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1723667,
+                    40.735657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#DD8BD3",
+                "marker-symbol": 19,
+                "population": 378715,
+                "city": "New Orleans",
+                "state": "Louisiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0715323,
+                    29.95106579999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#965876",
+                "marker-symbol": 20,
+                "population": 386552,
+                "city": "Wichita",
+                "state": "Kansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.336111,
+                    37.688889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#6B022C",
+                "marker-symbol": 21,
+                "population": 400070,
+                "city": "Minneapolis",
+                "state": "Minnesota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2650108,
+                    44.977753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#FBE3F8",
+                "marker-symbol": 22,
+                "population": 434353,
+                "city": "Omaha",
+                "state": "Nebraska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.99798829999999,
+                    41.2523634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#255D12",
+                "marker-symbol": 23,
+                "population": 447841,
+                "city": "Atlanta",
+                "state": "Georgia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3879824,
+                    33.7489954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#959482",
+                "marker-symbol": 24,
+                "population": 448479,
+                "city": "Virginia Beach",
+                "state": "Virginia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.97798499999999,
+                    36.8529263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#DAFF39",
+                "marker-symbol": 25,
+                "population": 467007,
+                "city": "Kansas City",
+                "state": "Missouri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785667,
+                    39.0997265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#95E0A5",
+                "marker-symbol": 26,
+                "population": 556495,
+                "city": "Albuquerque",
+                "state": "New Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6055534,
+                    35.0853336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7C7D37",
+                "marker-symbol": 27,
+                "population": 599164,
+                "city": "Milwaukee",
+                "state": "Wisconsin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9064736,
+                    43.0389025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8CB915",
+                "marker-symbol": 28,
+                "population": 603488,
+                "city": "Las Vegas",
+                "state": "Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1398296,
+                    36.1699412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#540F63",
+                "marker-symbol": 29,
+                "population": 609456,
+                "city": "Portland",
+                "state": "Oregon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6764816,
+                    45.5230622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#AF13BD",
+                "marker-symbol": 30,
+                "population": 609893,
+                "city": "Louisville/Jefferson County",
+                "state": "Kentucky"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7584557,
+                    38.2526647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#96FE26",
+                "marker-symbol": 31,
+                "population": 610613,
+                "city": "Oklahoma City",
+                "state": "Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5164276,
+                    35.4675602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#612508",
+                "marker-symbol": 32,
+                "population": 622104,
+                "city": "Baltimore",
+                "state": "Maryland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6121893,
+                    39.2903848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#DE2F91",
+                "marker-symbol": 33,
+                "population": 645966,
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0588801,
+                    42.3600825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#32BCD8",
+                "marker-symbol": 34,
+                "population": 646449,
+                "city": "Washington",
+                "state": "District of Columbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0368707,
+                    38.9071923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#01574A",
+                "marker-symbol": 35,
+                "population": 649495,
+                "city": "Denver",
+                "state": "Colorado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.990251,
+                    39.7392358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#4CCC80",
+                "marker-symbol": 36,
+                "population": 652405,
+                "city": "Seattle",
+                "state": "Washington"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3320708,
+                    47.6062095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#665DAA",
+                "marker-symbol": 37,
+                "population": 653450,
+                "city": "Memphis",
+                "state": "Tennessee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0489801,
+                    35.1495343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7FEEC2",
+                "marker-symbol": 38,
+                "population": 688701,
+                "city": "Detroit",
+                "state": "Michigan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0457538,
+                    42.331427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#5A746B",
+                "marker-symbol": 39,
+                "population": 792862,
+                "city": "Charlotte",
+                "state": "North Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8431267,
+                    35.2270869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#3BC33B",
+                "marker-symbol": 40,
+                "population": 822553,
+                "city": "Columbus",
+                "state": "Ohio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.99879419999999,
+                    39.9611755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#9A80B0",
+                "marker-symbol": 41,
+                "population": 842583,
+                "city": "Jacksonville",
+                "state": "Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.65565099999999,
+                    30.3321838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#55121D",
+                "marker-symbol": 42,
+                "population": 843393,
+                "city": "Indianapolis",
+                "state": "Indiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.158068,
+                    39.768403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#D9BFEF",
+                "marker-symbol": 43,
+                "population": 1513367,
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0740373,
+                    33.4483771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#09923F",
+                "marker-symbol": 44,
+                "population": 1553165,
+                "city": "Philadelphia",
+                "state": "Pennsylvania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1652215,
+                    39.9525839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#87DF36",
+                "marker-symbol": 45,
+                "population": 2195914,
+                "city": "Houston",
+                "state": "Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3698028,
+                    29.7604267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#025350",
+                "marker-symbol": 46,
+                "population": 2718782,
+                "city": "Chicago",
+                "state": "Illinois"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6297982,
+                    41.8781136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8A247B",
+                "marker-symbol": 47,
+                "population": 3884307,
+                "city": "Los Angeles",
+                "state": "California"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2436849,
+                    34.0522342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#405BB9",
+                "marker-symbol": 48,
+                "population": 8405837,
+                "city": "New York",
+                "state": "New York"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0059413,
+                    40.7127837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#32DE0E"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.21207199999999,
+                        44.4758825
+                    ],
+                    [
+                        -81.6326234,
+                        38.3498195
+                    ],
+                    [
+                        -104.8202462,
+                        41.1399814
+                    ],
+                    [
+                        -70.2553259,
+                        43.66147100000001
+                    ],
+                    [
+                        -75.5397878,
+                        39.7390721
+                    ],
+                    [
+                        -108.5006904,
+                        45.7832856
+                    ],
+                    [
+                        -71.4547891,
+                        42.9956397
+                    ],
+                    [
+                        -96.7898034,
+                        46.8771863
+                    ],
+                    [
+                        -81.0348144,
+                        34.0007104
+                    ],
+                    [
+                        -73.19517669999999,
+                        41.1865478
+                    ],
+                    [
+                        -96.73110340000001,
+                        43.5445959
+                    ],
+                    [
+                        -90.1848103,
+                        32.2987573
+                    ],
+                    [
+                        -71.4128343,
+                        41.8239891
+                    ],
+                    [
+                        -111.8910474,
+                        40.7607793
+                    ],
+                    [
+                        -92.28959479999999,
+                        34.7464809
+                    ],
+                    [
+                        -93.6091064,
+                        41.6005448
+                    ],
+                    [
+                        -86.80248999999999,
+                        33.5206608
+                    ],
+                    [
+                        -116.2146068,
+                        43.6187102
+                    ],
+                    [
+                        -74.1723667,
+                        40.735657
+                    ],
+                    [
+                        -90.0715323,
+                        29.95106579999999
+                    ],
+                    [
+                        -97.336111,
+                        37.688889
+                    ],
+                    [
+                        -93.2650108,
+                        44.977753
+                    ],
+                    [
+                        -95.99798829999999,
+                        41.2523634
+                    ],
+                    [
+                        -84.3879824,
+                        33.7489954
+                    ],
+                    [
+                        -75.97798499999999,
+                        36.8529263
+                    ],
+                    [
+                        -94.5785667,
+                        39.0997265
+                    ],
+                    [
+                        -106.6055534,
+                        35.0853336
+                    ],
+                    [
+                        -87.9064736,
+                        43.0389025
+                    ],
+                    [
+                        -115.1398296,
+                        36.1699412
+                    ],
+                    [
+                        -122.6764816,
+                        45.5230622
+                    ],
+                    [
+                        -85.7584557,
+                        38.2526647
+                    ],
+                    [
+                        -97.5164276,
+                        35.4675602
+                    ],
+                    [
+                        -76.6121893,
+                        39.2903848
+                    ],
+                    [
+                        -71.0588801,
+                        42.3600825
+                    ],
+                    [
+                        -77.0368707,
+                        38.9071923
+                    ],
+                    [
+                        -104.990251,
+                        39.7392358
+                    ],
+                    [
+                        -122.3320708,
+                        47.6062095
+                    ],
+                    [
+                        -90.0489801,
+                        35.1495343
+                    ],
+                    [
+                        -83.0457538,
+                        42.331427
+                    ],
+                    [
+                        -80.8431267,
+                        35.2270869
+                    ],
+                    [
+                        -82.99879419999999,
+                        39.9611755
+                    ],
+                    [
+                        -81.65565099999999,
+                        30.3321838
+                    ],
+                    [
+                        -86.158068,
+                        39.768403
+                    ],
+                    [
+                        -112.0740373,
+                        33.4483771
+                    ],
+                    [
+                        -75.1652215,
+                        39.9525839
+                    ],
+                    [
+                        -95.3698028,
+                        29.7604267
+                    ],
+                    [
+                        -87.6297982,
+                        41.8781136
+                    ],
+                    [
+                        -118.2436849,
+                        34.0522342
+                    ],
+                    [
+                        -74.0059413,
+                        40.7127837
+                    ]
+                ]
+            }
+        }
+    ]
+}
