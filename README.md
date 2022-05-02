@@ -18,7 +18,6 @@
 
 - Screenshot
 <img src="Screenshot.png">
----
 
 ## Other Python Project:
 
