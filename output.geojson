@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#E073C3",
+                "marker-color": "#A99280",
                 "marker-symbol": 0,
                 "population": 42284,
                 "city": "Burlington",
@@ -21,7 +21,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#6DAB82",
+                "marker-color": "#FE464B",
                 "marker-symbol": 1,
                 "population": 50821,
                 "city": "Charleston",
@@ -38,7 +38,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#45EA1D",
+                "marker-color": "#E9FF1A",
                 "marker-symbol": 2,
                 "population": 62448,
                 "city": "Cheyenne",
@@ -55,7 +55,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#A2FF9E",
+                "marker-color": "#10FEB7",
                 "marker-symbol": 3,
                 "population": 66318,
                 "city": "Portland",
@@ -72,7 +72,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#1C4BE8",
+                "marker-color": "#86086D",
                 "marker-symbol": 4,
                 "population": 71525,
                 "city": "Wilmington",
@@ -89,7 +89,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#D3C455",
+                "marker-color": "#6DF39B",
                 "marker-symbol": 5,
                 "population": 109059,
                 "city": "Billings",
@@ -106,7 +106,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#3EC74E",
+                "marker-color": "#113F38",
                 "marker-symbol": 6,
                 "population": 110378,
                 "city": "Manchester",
@@ -123,7 +123,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#0F08CA",
+                "marker-color": "#20729F",
                 "marker-symbol": 7,
                 "population": 113658,
                 "city": "Fargo",
@@ -140,7 +140,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#648C3E",
+                "marker-color": "#7915B3",
                 "marker-symbol": 8,
                 "population": 133358,
                 "city": "Columbia",
@@ -157,7 +157,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#42F596",
+                "marker-color": "#C43E9B",
                 "marker-symbol": 9,
                 "population": 147216,
                 "city": "Bridgeport",
@@ -174,7 +174,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#B071F2",
+                "marker-color": "#48F6F6",
                 "marker-symbol": 10,
                 "population": 164676,
                 "city": "Sioux Falls",
@@ -191,7 +191,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#B52B25",
+                "marker-color": "#143C18",
                 "marker-symbol": 11,
                 "population": 172638,
                 "city": "Jackson",
@@ -208,7 +208,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#EE7595",
+                "marker-color": "#29BB2B",
                 "marker-symbol": 12,
                 "population": 177994,
                 "city": "Providence",
@@ -225,7 +225,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#2B3F13",
+                "marker-color": "#0504AC",
                 "marker-symbol": 13,
                 "population": 191180,
                 "city": "Salt Lake City",
@@ -242,7 +242,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#E38F11",
+                "marker-color": "#855DB6",
                 "marker-symbol": 14,
                 "population": 197357,
                 "city": "Little Rock",
@@ -259,7 +259,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#6A9638",
+                "marker-color": "#A4A49B",
                 "marker-symbol": 15,
                 "population": 207510,
                 "city": "Des Moines",
@@ -276,7 +276,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#2E73A4",
+                "marker-color": "#8CC733",
                 "marker-symbol": 16,
                 "population": 212113,
                 "city": "Birmingham",
@@ -293,7 +293,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#3E2953",
+                "marker-color": "#60749D",
                 "marker-symbol": 17,
                 "population": 214237,
                 "city": "Boise City",
@@ -310,7 +310,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#EA1CB0",
+                "marker-color": "#F9D519",
                 "marker-symbol": 18,
                 "population": 278427,
                 "city": "Newark",
@@ -327,7 +327,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#0770B2",
+                "marker-color": "#E37A76",
                 "marker-symbol": 19,
                 "population": 378715,
                 "city": "New Orleans",
@@ -344,7 +344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#AF824A",
+                "marker-color": "#86BB3D",
                 "marker-symbol": 20,
                 "population": 386552,
                 "city": "Wichita",
@@ -361,7 +361,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#B0D67C",
+                "marker-color": "#FDCB95",
                 "marker-symbol": 21,
                 "population": 400070,
                 "city": "Minneapolis",
@@ -378,7 +378,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#3835A9",
+                "marker-color": "#A5C712",
                 "marker-symbol": 22,
                 "population": 434353,
                 "city": "Omaha",
@@ -395,7 +395,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#CAD22F",
+                "marker-color": "#B74947",
                 "marker-symbol": 23,
                 "population": 447841,
                 "city": "Atlanta",
@@ -412,7 +412,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#85E34A",
+                "marker-color": "#8AE343",
                 "marker-symbol": 24,
                 "population": 448479,
                 "city": "Virginia Beach",
@@ -429,7 +429,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#C1AEEF",
+                "marker-color": "#FC4168",
                 "marker-symbol": 25,
                 "population": 467007,
                 "city": "Kansas City",
@@ -446,7 +446,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#AC1F90",
+                "marker-color": "#6EC7B0",
                 "marker-symbol": 26,
                 "population": 556495,
                 "city": "Albuquerque",
@@ -463,7 +463,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#5A229F",
+                "marker-color": "#A7C0FA",
                 "marker-symbol": 27,
                 "population": 599164,
                 "city": "Milwaukee",
@@ -480,7 +480,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#99CDE2",
+                "marker-color": "#6CE7D2",
                 "marker-symbol": 28,
                 "population": 603488,
                 "city": "Las Vegas",
@@ -497,7 +497,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#19032A",
+                "marker-color": "#258422",
                 "marker-symbol": 29,
                 "population": 609456,
                 "city": "Portland",
@@ -514,7 +514,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#D3E227",
+                "marker-color": "#824B92",
                 "marker-symbol": 30,
                 "population": 609893,
                 "city": "Louisville/Jefferson County",
@@ -531,7 +531,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#F4E9C9",
+                "marker-color": "#95CA3B",
                 "marker-symbol": 31,
                 "population": 610613,
                 "city": "Oklahoma City",
@@ -548,7 +548,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#0A778A",
+                "marker-color": "#D7870C",
                 "marker-symbol": 32,
                 "population": 622104,
                 "city": "Baltimore",
@@ -565,7 +565,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#EB90E6",
+                "marker-color": "#B86325",
                 "marker-symbol": 33,
                 "population": 645966,
                 "city": "Boston",
@@ -582,7 +582,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#B24F80",
+                "marker-color": "#95388C",
                 "marker-symbol": 34,
                 "population": 646449,
                 "city": "Washington",
@@ -599,7 +599,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#3777C0",
+                "marker-color": "#DDEE22",
                 "marker-symbol": 35,
                 "population": 649495,
                 "city": "Denver",
@@ -616,7 +616,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#5A2246",
+                "marker-color": "#ED05A7",
                 "marker-symbol": 36,
                 "population": 652405,
                 "city": "Seattle",
@@ -633,7 +633,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#FEFF3B",
+                "marker-color": "#43CAC8",
                 "marker-symbol": 37,
                 "population": 653450,
                 "city": "Memphis",
@@ -650,7 +650,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#01BF4F",
+                "marker-color": "#61061B",
                 "marker-symbol": 38,
                 "population": 688701,
                 "city": "Detroit",
@@ -667,7 +667,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#DD8F8E",
+                "marker-color": "#C3E664",
                 "marker-symbol": 39,
                 "population": 792862,
                 "city": "Charlotte",
@@ -684,7 +684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#E0D303",
+                "marker-color": "#A70376",
                 "marker-symbol": 40,
                 "population": 822553,
                 "city": "Columbus",
@@ -701,7 +701,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#7B314E",
+                "marker-color": "#1B0C77",
                 "marker-symbol": 41,
                 "population": 842583,
                 "city": "Jacksonville",
@@ -718,7 +718,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#F023FF",
+                "marker-color": "#0DD711",
                 "marker-symbol": 42,
                 "population": 843393,
                 "city": "Indianapolis",
@@ -735,7 +735,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#625AEC",
+                "marker-color": "#E30EAE",
                 "marker-symbol": 43,
                 "population": 1513367,
                 "city": "Phoenix",
@@ -752,7 +752,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#39B73B",
+                "marker-color": "#5F6668",
                 "marker-symbol": 44,
                 "population": 1553165,
                 "city": "Philadelphia",
@@ -769,7 +769,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#7C9CEF",
+                "marker-color": "#3A821D",
                 "marker-symbol": 45,
                 "population": 2195914,
                 "city": "Houston",
@@ -786,7 +786,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#F08ECA",
+                "marker-color": "#5DC4E9",
                 "marker-symbol": 46,
                 "population": 2718782,
                 "city": "Chicago",
@@ -803,7 +803,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#FEA830",
+                "marker-color": "#00B162",
                 "marker-symbol": 47,
                 "population": 3884307,
                 "city": "Los Angeles",
@@ -820,7 +820,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#44CB13",
+                "marker-color": "#D01455",
                 "marker-symbol": 48,
                 "population": 8405837,
                 "city": "New York",
@@ -837,7 +837,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#2E6CA8"
+                "marker-color": "#86097E"
             },
             "geometry": {
                 "type": "LineString",

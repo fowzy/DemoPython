@@ -3,7 +3,6 @@ from sre_constants import IN
 from numpy import append
 from rich import print
 import random
-import pandas as pd
 
 def makeLines(cities):
     feature = {
