@@ -1,5 +1,5 @@
-# Data Muniplication - Fowzy Alsaud for Data Engineering
->This is a quick demo of some the Python things.
+# Data Muniplication - Fowzy Alsaud
+> This is a quick demo of some the Python things.
 > Provided by Dr. Griffin, MSU Texas
 ---
 ## Requirments 
