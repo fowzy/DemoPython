@@ -1,4 +1,4 @@
-# Data Muniplication - Fowzy Alsaud
+# Data Muniplication - Fowzy
 > This is a quick demo of some the Python things.
 > Provided by Dr. Griffin, MSU Texas
 ---
